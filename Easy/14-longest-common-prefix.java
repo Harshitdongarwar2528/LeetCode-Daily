@@ -1,6 +1,11 @@
+// Problem: 14. Longest Common Prefix
+// Link: https://leetcode.com/problems/longest-common-prefix/
+// Difficulty: Easy
+
 // Approach 1: Optimal 
 //Time Complexity: O(nm²)
 //Space Complexity: O(1)
+
 package Easy;
 class Solution{
     public String longestCommonPrefix(String [] strs){
