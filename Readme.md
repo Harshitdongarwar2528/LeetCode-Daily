@@ -14,7 +14,7 @@ I am solving problems consistently to improve my problem-solving skills and prep
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| Easy       | 2               |
+| Easy       | 3               |
 | Medium     | 0               |
 | Hard       | 0               |
 
@@ -51,10 +51,11 @@ Each solution includes:
 
 ## 📅 Daily Log
 
-| # | Problem               | Difficulty |
-|---|-----------------------|------------|
-| 1 | Two Sum               | Easy       |
-| 2 | Longest Common Prefix | Easy       |
+| # | Problem                             | Difficulty |
+|---|-------------------------------------|------------|
+| 1 | Two Sum                             | Easy       |
+| 2 | Longest Common Prefix               | Easy       |
+| 3 | Remove Duplicates from sorted Array | Easy       |
 
 ---
 
