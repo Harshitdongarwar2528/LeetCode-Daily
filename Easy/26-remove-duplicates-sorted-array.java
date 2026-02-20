@@ -2,7 +2,6 @@
 // Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 // Difficulty: Easy 
 
-package Easy;                               
 class Sorted {
     public int removeDuplicates(int[] nums) {
         if(nums.length == 0 ) return 0;

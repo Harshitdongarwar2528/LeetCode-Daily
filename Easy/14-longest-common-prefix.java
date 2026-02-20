@@ -6,7 +6,6 @@
 //Time Complexity: O(nm²)
 //Space Complexity: O(1)
 
-package Easy;
 class Solution{
     public String longestCommonPrefix(String [] strs){
         if(strs == null || strs.length == 0) return "";

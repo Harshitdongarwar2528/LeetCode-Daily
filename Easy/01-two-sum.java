@@ -9,7 +9,7 @@
 // Approach 2: Optimal (HashMap)
 // Time Complexity: O(n)
 // Space Complexity: O(n)
-package Easy;
+
 import java.util.HashMap;
 
 class Solution {
